@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">Open mouth face</title>
+  <desc id="desc">A yellow face with an open mouth.</desc>
+  <circle cx="120" cy="120" r="105" fill="#ffd966" stroke="#f1c232" stroke-width="8"/>
+  <circle cx="82" cy="95" r="13" fill="#333"/>
+  <circle cx="158" cy="95" r="13" fill="#333"/>
+  <ellipse cx="120" cy="154" rx="35" ry="42" fill="#333"/>
+  <ellipse cx="120" cy="171" rx="21" ry="15" fill="#d45b72"/>
+</svg>
