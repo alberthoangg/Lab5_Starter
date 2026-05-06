@@ -8,8 +8,8 @@ function init() {
   const voiceSelect = document.getElementById('voice-select');
   const talkButton = document.querySelector('#explore button');
   const face = document.querySelector('#explore img');
-  const smilingFace = 'assets/images/smiling.svg';
-  const talkingFace = 'assets/images/open-mouth.svg';
+  const smilingFace = 'assets/images/smiling.png';
+  const talkingFace = 'assets/images/smiling-open.png';
 
   let voices = [];
   let voiceLoadAttempts = 0;
