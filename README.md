@@ -1,4 +1,4 @@
-# [Expose Page](https://fresh-bruh.github.io/Lab5_Starter/expose.html)
+# [Expose Page](https://alberthoangg.github.io/Lab5_Starter/expose.html)
 
 ## Lab Members 
 * Noah Terrell
